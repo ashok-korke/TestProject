@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3745" started-at="2023-07-01T10:07:00Z" finished-at="2023-07-01T10:07:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3745" started-at="2023-07-01T10:07:00Z" finished-at="2023-07-01T10:07:04Z">
+      <class name="api.tests.UserTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:api.tests.UserTests@6193932a]" name="setup" is-config="true" duration-ms="624" started-at="2023-07-01T15:37:00Z" finished-at="2023-07-01T15:37:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCreateUser()[pri:1, instance:api.tests.UserTests@6193932a]" name="testCreateUser" duration-ms="1859" started-at="2023-07-01T15:37:01Z" finished-at="2023-07-01T15:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method status="PASS" signature="testGetSingleUser()[pri:2, instance:api.tests.UserTests@6193932a]" name="testGetSingleUser" duration-ms="139" started-at="2023-07-01T15:37:03Z" finished-at="2023-07-01T15:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSingleUser -->
+        <test-method status="PASS" signature="testUpdateUser()[pri:3, instance:api.tests.UserTests@6193932a]" name="testUpdateUser" duration-ms="493" started-at="2023-07-01T15:37:03Z" finished-at="2023-07-01T15:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method status="PASS" signature="testDeleteUser()[pri:4, instance:api.tests.UserTests@6193932a]" name="testDeleteUser" duration-ms="492" started-at="2023-07-01T15:37:04Z" finished-at="2023-07-01T15:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+        <test-method status="PASS" signature="testGetListOfUser()[pri:5, instance:api.tests.UserTests@6193932a]" name="testGetListOfUser" duration-ms="121" started-at="2023-07-01T15:37:04Z" finished-at="2023-07-01T15:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetListOfUser -->
+      </class> <!-- api.tests.UserTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

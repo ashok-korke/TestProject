@@ -1,0 +1,40 @@
+[INFO ] 2023-07-01 15:25:31.646 [main] UserTests - ********* creating user ***********
+[INFO ] 2023-07-01 15:25:33.350 [main] UserTests - ********* user is being created ***********
+[INFO ] 2023-07-01 15:25:33.353 [main] UserTests - ********* getting single user ***********
+[INFO ] 2023-07-01 15:25:33.490 [main] UserTests - ********* user is being displayed ***********
+[INFO ] 2023-07-01 15:25:33.491 [main] UserTests - ********* updating user ***********
+[INFO ] 2023-07-01 15:25:33.988 [main] UserTests - ********* user is being updated ***********
+[INFO ] 2023-07-01 15:25:33.991 [main] UserTests - ********* deleting user ***********
+[INFO ] 2023-07-01 15:25:34.478 [main] UserTests - ********* user is being deleted ***********
+[INFO ] 2023-07-01 15:25:34.480 [main] UserTests - ********* getting list of users ***********
+[INFO ] 2023-07-01 15:25:34.600 [main] UserTests - ********* list of users being displayed ***********
+[INFO ] 2023-07-01 15:28:59.161 [main] UserTests - ********* creating user ***********
+[INFO ] 2023-07-01 15:29:00.970 [main] UserTests - ********* user is being created ***********
+[INFO ] 2023-07-01 15:29:00.972 [main] UserTests - ********* getting single user ***********
+[INFO ] 2023-07-01 15:29:01.117 [main] UserTests - ********* user is being displayed ***********
+[INFO ] 2023-07-01 15:29:01.119 [main] UserTests - ********* updating user ***********
+[INFO ] 2023-07-01 15:29:01.634 [main] UserTests - ********* user is being updated ***********
+[INFO ] 2023-07-01 15:29:01.636 [main] UserTests - ********* deleting user ***********
+[INFO ] 2023-07-01 15:29:02.216 [main] UserTests - ********* user is being deleted ***********
+[INFO ] 2023-07-01 15:29:02.217 [main] UserTests - ********* getting list of users ***********
+[INFO ] 2023-07-01 15:29:02.860 [main] UserTests - ********* list of users being displayed ***********
+[DEBUG] 2023-07-01 15:30:25.017 [main] UserTests - ********* creating user ***********
+[DEBUG] 2023-07-01 15:30:26.442 [main] UserTests - ********* user is being created ***********
+[INFO ] 2023-07-01 15:30:26.445 [main] UserTests - ********* getting single user ***********
+[INFO ] 2023-07-01 15:30:26.574 [main] UserTests - ********* user is being displayed ***********
+[INFO ] 2023-07-01 15:30:26.575 [main] UserTests - ********* updating user ***********
+[INFO ] 2023-07-01 15:30:27.054 [main] UserTests - ********* user is being updated ***********
+[INFO ] 2023-07-01 15:30:27.057 [main] UserTests - ********* deleting user ***********
+[INFO ] 2023-07-01 15:30:27.618 [main] UserTests - ********* user is being deleted ***********
+[INFO ] 2023-07-01 15:30:27.620 [main] UserTests - ********* getting list of users ***********
+[INFO ] 2023-07-01 15:30:27.740 [main] UserTests - ********* list of users being displayed ***********
+[DEBUG] 2023-07-01 15:37:01.606 [main] UserTests - ********* creating user ***********
+[DEBUG] 2023-07-01 15:37:03.460 [main] UserTests - ********* user is being created ***********
+[INFO ] 2023-07-01 15:37:03.464 [main] UserTests - ********* getting single user ***********
+[INFO ] 2023-07-01 15:37:03.602 [main] UserTests - ********* user is being displayed ***********
+[INFO ] 2023-07-01 15:37:03.604 [main] UserTests - ********* updating user ***********
+[INFO ] 2023-07-01 15:37:04.096 [main] UserTests - ********* user is being updated ***********
+[INFO ] 2023-07-01 15:37:04.098 [main] UserTests - ********* deleting user ***********
+[INFO ] 2023-07-01 15:37:04.589 [main] UserTests - ********* user is being deleted ***********
+[INFO ] 2023-07-01 15:37:04.591 [main] UserTests - ********* getting list of users ***********
+[INFO ] 2023-07-01 15:37:04.711 [main] UserTests - ********* list of users being displayed ***********
